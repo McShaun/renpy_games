@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 34: end of line expected.
+    n "But in this place, was a crazy crew of misfortunate misfits." /n "Teenagers, who wanted a little excitement, and found it."
+                                                                     ^
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Tue May 10 07:36:31 2022

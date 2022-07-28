@@ -2,6 +2,7 @@
 
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
+# Shaun is adding a commment to test github.com
 
 define n = Character('Narrator', color="#d74a25")
 define j = Character('Josue', color="#c8ffc8", image="josue", who_font="gui/Apple-Chancery.ttf", what_font="gui/Apple-Chancery.ttf")
